@@ -27,7 +27,7 @@ Copyright (c) 2020- redev ([redev-5c](https://redev.studio/))
 
 All rights reserved
 
-This file is part of Kiwiplay kids.
+This file is part of NetGuard.
 
 Kiwiplay kids is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by

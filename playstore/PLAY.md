@@ -3,61 +3,28 @@ Play store
 
 Title
 -----
-NetGuard - no-root firewall
+언링크 파이어월 - 누수되는 데이터를 아껴보자!
 
 
 Short description
 -----------------
-A simple way to block access to the internet per application
+언링크 파이어월을 이용하면 루팅 없이 인터넷 요금을 아낄 수 있어요.
 
 
 Long description
 ----------------
-NetGuard provides simple and advanced ways to block access to the internet - no root required.
+*데이터 아끼기*
+언링크 파이어월을 이용하면 방화벽 기능을 통해 평소 사용하지 않는 어플리케이션의 데이터 사용량을 줄일 수 있어요.
+깔끔한 디자인으로 누구나 간단하게 클릭 여러번 만으로 백그라운드 네트워크 사용으로부터 안전해질 수 있어요.
 
-Applications and addresses can individually be allowed or denied access to your Wi-Fi and/or mobile connection.
+*안전하게 앱 사용하기*
+언링크 파이어월은 어떠한 개인정보도 온라인에 공유하지 않아요.
+따라서, 앱을 사용함에 있어서 개인정보 도용에 따른 위험이 뒤따르지 않아요.
 
-Blocking access to the internet can help:
+*안전을 최우선으로*
+매일매일 개인정보와 안전을 책임집니다.
 
-&bull; reduce your data usage
-&bull; save your battery
-&bull; increase your privacy
-
-Features:
-
-&bull; Simple to use
-&bull; No root required
-&bull; 100% open source
-&bull; No calling home
-&bull; No tracking or analytics
-&bull; Actively developed and supported
-&bull; Android 5.0 and later supported
-&bull; IPv4/IPv6 TCP/UDP supported
-&bull; Tethering supported
-&bull; Multiple device users supported
-&bull; Optionally allow when screen on
-&bull; Optionally block when roaming
-&bull; Optionally block system applications
-&bull; Optionally notify when an application accesses the internet
-&bull; Optionally record network usage per application per address
-&bull; Material design theme with light and dark theme
-
-PRO features:
-
-&bull; Log all outgoing traffic; search and filter access attempts; export PCAP files to analyze traffic
-&bull; Allow/block individual addresses per application
-&bull; New application notifications; configure NetGuard directly from the notification
-&bull; Display network speed graph in a status bar notification
-&bull; Select from five additional themes in both light and dark version
-
-There is no other no-root firewall offering all these features.
-
-If you have a question or problem, you can send an e-mail to marcel+netguard@faircode.eu
-
-If you like to help people less fluent in English, you can help translate NetGuard in your language: https://crowdin.com/project/netguard/
-
-If you like to test new features, you can participate in the test program: https://play.google.com/apps/testing/eu.faircode.netguard
-
-All required permissions are described here: https://github.com/M66B/NetGuard/blob/master/FAQ.md#FAQ42
-
-The source code is available here: https://github.com/M66B/NetGuard
+------
+저작권: FairCode의 Netguard 소스 코드를 일부 사용했으며, 본 소프트웨어는 GPL 3.0으로 배포됩니다.
+Copyright 2015~ Faircode
+Copyright 2020~ redev

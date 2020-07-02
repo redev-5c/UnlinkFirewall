@@ -1,5 +1,5 @@
 # Unlink Firewall
-
+<img src="https://travis-ci.com/redev-5c/UnlinkFirewall.svg?branch=master">
 Unlink firewall is UI upgrade of NetGuard.
 
 Blocking access to the internet can help:

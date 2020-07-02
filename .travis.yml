@@ -1,4 +1,4 @@
-install: gradle wrapper --gradle-version 6.1.1
+install: gradle wrapper --gradle-version 6.5.1
 
 language: android
 

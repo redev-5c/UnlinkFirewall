@@ -28,10 +28,11 @@ android {
     }
     signingConfigs {
         release {
-            storeFile file('C:\\Program Files\\Java\\jre1.8.0_251\\bin\\my-release-key.keystore')
-            storePassword "Lee0605!"
-            keyAlias "alias_name"
-            keyPassword "Lee0605!"
+            storeFile file('$HOME/.android/debug.keystore')
+            storePassword "android"
+            keyAlias "androiddebugkey"
+            keyPassword "android"
+//Password for real build: Lee0605! and alias is alias_name.
         }
 
     }

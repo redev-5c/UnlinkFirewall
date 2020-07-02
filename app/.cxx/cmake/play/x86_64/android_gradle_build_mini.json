@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "C:\\Users\\ojing\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\platforms.cmake",
+    "D:\\Download\\Download\\dsf\\NetGuard-master\\app\\CMakeLists.txt",
+    "C:\\Users\\ojing\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\build\\cmake\\android.toolchain.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\ojing\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Download\\Download\\dsf\\NetGuard-master\\app\\.cxx\\cmake\\play\\x86_64\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\ojing\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\Download\\Download\\dsf\\NetGuard-master\\app\\.cxx\\cmake\\play\\x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "netguard-Release-x86_64": {
+      "artifactName": "netguard",
+      "buildCommand": "C:\\Users\\ojing\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Download\\Download\\dsf\\NetGuard-master\\app\\.cxx\\cmake\\play\\x86_64\" netguard",
+      "abi": "x86_64",
+      "output": "D:\\Download\\Download\\dsf\\NetGuard-master\\app\\build\\intermediates\\cmake\\play\\obj\\x86_64\\libnetguard.so",
+      "runtimeFiles": []
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.redev.kiwiplay",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "properties": [],
+      "versionCode": 2020061401,
+      "versionName": "2020061401",
+      "enabled": true,
+      "outputFile": "NetGuard-v2.283-release.apk"
+    }
+  ]
+}

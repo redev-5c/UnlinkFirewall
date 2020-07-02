@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\Download\Download\dsf\NetGuard-master\app\.cxx\cmake\play\armeabi-v7a'
+ninja: no work to do.

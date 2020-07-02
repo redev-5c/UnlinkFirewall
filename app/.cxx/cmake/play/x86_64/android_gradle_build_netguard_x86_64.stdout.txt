@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\Download\Download\dsf\NetGuard-master\app\.cxx\cmake\play\x86_64'
+ninja: no work to do.

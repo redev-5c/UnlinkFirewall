@@ -23,7 +23,7 @@ License
 
 Copyright (c) 2015-2018 Marcel Bokhorst ([M66B](https://contact.faircode.eu/))
 
-Copyright (c) 2020- redev ([redev-5c](https://redev.studio/))
+Copyright (c) 2020- redev ([redevunlink](https://withun.link))
 
 All rights reserved
 
